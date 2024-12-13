@@ -66,25 +66,13 @@ public class Main {
 }
 
 /*
- * /**
- *Paquete y clase:** Define el paquete `lpd8` y utiliza la clase Main
- https://docs.oracle.com/javase/tutorial/java/package/index.html
- 
- *Método `main`:** Punto de entrada, ejecuta la lógica principal
- https://docs.oracle.com/javase/tutorial/getStarted/application/index.html
- 
- *Entrada con `Scanner`:** Captura números ingresados por el usuario
- https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
- 
- *Arreglos (`int[]`):** Usa arreglos para almacenar y procesar números
+ Arreglosint[] Usa arreglos para almacenar y procesar números
  https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
  
- *Método `esPrimo`:** Verifica si un número es primo usando divisibilidad y Math.sqr
+ *Método esPrimo Verifica si un número es primo usando divisibilidad y Math.sqr
  https//docs.oracle.com/javase/8/docs/api/java/lang/Math.html
  
- *Ordenación por primos:** Reorganiza el arreglo intercambiando valores}https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
- *
- Impresión con `System.out.println`:** Muestra resultados en consolahttps://docs.oracle.com/javase/8/docs/api/java/lang/System.html
+ *Ordenación por primos Reorganiza el arreglo intercambiando valores}https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
  */
 
 
